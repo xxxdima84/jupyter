@@ -16,3 +16,7 @@ print("Сегодня нужно отвести", passengers, "человек.")
 print("В каждой машине будет примерно", average_passengers_per_car,"человека")
 
 #average_passengers_per_car = car_pool_capacity / passenger - имя car_pool_capacity не определено
+
+
+
+
